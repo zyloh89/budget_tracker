@@ -21,4 +21,4 @@ When brought back online:
 
 ## Link to deployed code
 
-https://zyloh89.github.io/budget_tracker/
+https://intense-reef-97050.herokuapp.com/
